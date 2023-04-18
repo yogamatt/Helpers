@@ -18,7 +18,7 @@
     "coffee-script": "^1.12.4",
     "normalize-range": "^0.1.2",
     "num2fraction": "^1.2.2",
-    "postcss": "^5.2.16",
+    "postcss": "^7.0.36",
     "postcss-value-parser": "^3.2.3"
   },
   "devDependencies": {
